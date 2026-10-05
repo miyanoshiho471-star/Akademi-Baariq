@@ -1,0 +1,201 @@
+{
+  "mode": "Built-in GPT image generation",
+  "promptBriefs": [
+    {
+      "filename": "onion.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a pink onion"
+    },
+    {
+      "filename": "cakoi.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: Malaysian cakoi fried dough on a plate"
+    },
+    {
+      "filename": "ant.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly ant"
+    },
+    {
+      "filename": "hat.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a yellow hat with blue ribbon"
+    },
+    {
+      "filename": "cloud.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a fluffy cloud with blue shading"
+    },
+    {
+      "filename": "monkey.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly monkey"
+    },
+    {
+      "filename": "school.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful school building"
+    },
+    {
+      "filename": "family.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a Malaysian family of four, mother wearing hijab"
+    },
+    {
+      "filename": "boy-reading.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a Malaysian boy reading an open book"
+    },
+    {
+      "filename": "boy-full.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a Malaysian boy feeling full after eating, hands on tummy"
+    },
+    {
+      "filename": "roti-canai.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: Malaysian roti canai with curry"
+    },
+    {
+      "filename": "train.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful passenger train"
+    },
+    {
+      "filename": "polar-bear.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly polar bear"
+    },
+    {
+      "filename": "airplane.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a blue and white airplane"
+    },
+    {
+      "filename": "bird.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful bird"
+    },
+    {
+      "filename": "cat.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: an orange cat"
+    },
+    {
+      "filename": "cow.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly cow"
+    },
+    {
+      "filename": "dog.png",
+      "brief": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly dog"
+    }
+  ],
+  "exactPrompts": [
+    {
+      "name": "banana",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. A beautiful vivid colourful bunch of ripe yellow bananas, complete and centered on clean white background. Friendly polished children's storybook illustration with soft dimensional shading. Square composition, ample margin. No text, letters, numbers, logo, borders or watermark."
+    },
+    {
+      "filename": "carrot.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a fresh orange carrot with green leafy top"
+    },
+    {
+      "filename": "broccoli.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: fresh green broccoli"
+    },
+    {
+      "filename": "noodles.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a bowl of Malaysian fried noodles, clearly visible noodles"
+    },
+    {
+      "filename": "fried-chicken.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: crispy golden fried chicken pieces on a plate"
+    },
+    {
+      "filename": "rice.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a mound of cooked white rice in a blue bowl"
+    },
+    {
+      "filename": "eagle.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a brown eagle perched, full body"
+    },
+    {
+      "filename": "tiger.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly orange tiger with black stripes, full body"
+    },
+    {
+      "filename": "lion.png",
+      "prompt": "An original watercolour educational illustration of a lion standing on grass. Golden fur and a brown mane. White background, bright colours, complete animal visible. No words or logos."
+    },
+    {
+      "filename": "pizza.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a delicious cheese pizza with colourful vegetable toppings"
+    },
+    {
+      "filename": "cake.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful decorated birthday cake without candles or writing"
+    },
+    {
+      "filename": "sate.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: Malaysian satay grilled chicken skewers with peanut sauce on a plate"
+    },
+    {
+      "filename": "duck.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly yellow duck, full body"
+    },
+    {
+      "filename": "fish.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful orange fish, full body side view"
+    },
+    {
+      "filename": "book.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a thick closed blue book, clearly many pages, no title"
+    },
+    {
+      "filename": "bus.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a cheerful yellow school bus, complete side three-quarter view"
+    },
+    {
+      "filename": "frog.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a friendly bright green frog"
+    },
+    {
+      "filename": "milk.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a cold glass of white milk beside a blue white milk carton, condensation, no words"
+    },
+    {
+      "filename": "door.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: an open wooden door in a simple doorway, clearly open"
+    },
+    {
+      "filename": "car.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a shiny new red car, complete three-quarter view"
+    },
+    {
+      "filename": "tea.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a cup of hot tea, clearly visible steam rising"
+    },
+    {
+      "filename": "schoolbag.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful blue and orange school backpack"
+    },
+    {
+      "filename": "sleeping-cat.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a cute orange cat sleeping curled on a small cushion, eyes closed"
+    },
+    {
+      "filename": "running-boy.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a Malaysian preschool boy clearly running, full body joyful action"
+    },
+    {
+      "filename": "reading-girl.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a Malaysian preschool girl clearly reading an open book"
+    },
+    {
+      "filename": "swimming-fish.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful fish swimming with bubbles and a small blue water vignette"
+    },
+    {
+      "filename": "eating-boy.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a Malaysian preschool boy eating rice at a small table, spoon raised to mouth"
+    },
+    {
+      "filename": "flying-bird.png",
+      "prompt": "Use case: illustration-story. Asset: preschool quiz picture. Beautiful vivid colourful friendly children's storybook illustration, soft dimensional shading, clean white background, square composition, complete subject centered with ample margin. No text, letters, numbers, logos, border or watermark. Subject: a colourful bird clearly flying with spread wings"
+    }
+  ],
+  "jawi": {
+    "mode": "built-in image_gen",
+    "prompts": {
+      "assets/jawi-bola.png": "Use case: illustration-story. Asset type: preschool vocabulary quiz picture. Subject: A single colourful football soccer ball with authentic recognisable pentagon and hexagon panels in vivid blue, yellow, red and white. Clearly a football, round sphere. Style: cheerful vivid preschool storybook illustration, clean clear outlines, soft shading, charming polished colour. Composition: crisp single centred full subject on pure white background with generous white margins, square image. No words, labels, letters, numbers, watermark or border.",
+      "assets/jawi-pensel.png": "Use case: illustration-story. Asset type: preschool vocabulary quiz picture. Subject: One yellow wooden pencil shown diagonally, full object from sharpened exposed wooden graphite tip to pink eraser with silver collar. Easily recognisable pencil. Style: cheerful vivid preschool storybook illustration, clean clear outlines, soft shading, charming polished colour. Composition: crisp single centred full subject on pure white background with generous white margins, square image. No words, labels, letters, numbers, watermark or border.",
+      "assets/jawi-vowel-epal.png": "Use case: illustration-story. Asset type: preschool vocabulary quiz picture. Subject: One bright red apple, round fresh fruit with a short brown stem and one green leaf. Easily recognisable apple. Style: cheerful vivid preschool storybook illustration, clean clear outlines, soft shading, charming polished colour. Composition: crisp single centred full subject on pure white background with generous white margins, square image. No words, labels, letters, numbers, watermark or border.",
+      "assets/jawi-vowel-otak.png": "Use case: illustration-story. Asset type: preschool vocabulary quiz picture. Subject: Friendly simplified educational diagram showing one child head in side profile with a clearly visible simplified pink brain in the upper part of the head via a clean gentle cutaway. Warm skin tone, dark hair along back, simple friendly face. Brain visibly the primary educational focus, absolutely no gore or distress. Style: cheerful vivid preschool storybook illustration, clean clear outlines, soft shading, charming polished colour. Composition: crisp single centred full subject on pure white background with generous white margins, square image. No words, labels, letters, numbers, watermark or border.",
+      "assets/jawi-vowel-ulat.png": "Use case: illustration-story. Asset type: preschool vocabulary quiz picture. Subject: one friendly green caterpillar on a green leaf, recognizable soft segmented rounded body with several short tiny legs, round head with two short antennae and a small cheerful smile. Clearly an insect caterpillar, never a shrimp or lobster. Style: cheerful vivid preschool storybook illustration, clean clear outlines, soft shading, charming polished colour. Composition: crisp centred full caterpillar and leaf on pure white background, generous white margins, square image. No words, labels, letters, numbers, watermark or border."
+    }
+  }
+}
